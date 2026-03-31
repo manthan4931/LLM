@@ -7,3 +7,4 @@ chromadb
 sentence-transformers
 yt-dlp
 openai-whisper
+langchain-huggingface
